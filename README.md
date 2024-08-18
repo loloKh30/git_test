@@ -1,2 +1,4 @@
 # git_test
-read me
+
+my first file ever 
+hello
